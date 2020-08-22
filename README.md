@@ -2,10 +2,10 @@
 
 ### Coursera
 
-| Name                                            | Issuing Organization       | Credential URL                                                                           | Repository File |
-|-------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------|-----------------|
-| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera & deeplearning.ai | [link](https://www.coursera.org/account/accomplishments/specialization/6EKWGQ9AK7X6)     |  |
-| [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) | Coursera & IBM  | [link](https://www.coursera.org/account/accomplishments/professional-cert/DH6856XH9M56) | |
+| Name                                            | Issuing Organization       | Credential |
+|-------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------|
+| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera & deeplearning.ai | [link](https://www.coursera.org/account/accomplishments/specialization/6EKWGQ9AK7X6) / [repo file](certificates/Coursera_Deep_Learning_Specialization.pdf) |
+| [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) | Coursera & IBM  | [link](https://www.coursera.org/account/accomplishments/professional-cert/DH6856XH9M56) / [repo file](Coursera_IBM_AI_Engineering_Professional_Certificate.pdf) |
 
 ### Udemy
 
