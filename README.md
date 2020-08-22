@@ -11,13 +11,13 @@
 
 | Name                                                         | Credential ID                           | Credential URL                                                                                           | Repository File |
 |--------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------|
-| Complete Tensorflow 2 and Keras Deep Learning Bootcamp       | UC-a1ea8fc9-79e9-45a1-aa84-9a9f49c097cb | [link](https://www.udemy.com/certificate/UC-a1ea8fc9-79e9-45a1-aa84-9a9f49c097cb/]) | |
-| Unsupervised Machine Learning Hidden Markov Models in Python | UC-7b148c4e-689e-433e-836d-f47726e6471f | [link](https://www.udemy.com/certificate/UC-7b148c4e-689e-433e-836d-f47726e6471f/)  | |
-| Spark and Python for Big Data with PySpark                   | UC-205e4ef4-017b-48f5-b44c-7bbcef31729d | [link](https://www.udemy.com/certificate/UC-205e4ef4-017b-48f5-b44c-7bbcef31729d/)  | |
-| Taming Big Data with Apache Spark and Python - Hands On!     | UC-079486e0-5418-4601-ae24-ab5227efa734 | [link](https://www.udemy.com/certificate/UC-079486e0-5418-4601-ae24-ab5227efa734)   | |
-| The Data Science Course 2020: Complete Data Science Bootcamp | UC-298e63b4-b71c-44b4-883f-57bd54abc46d | [link](https://www.udemy.com/certificate/UC-298e63b4-b71c-44b4-883f-57bd54abc46d)   | |
-| Deployment of Machine Learning Models                        | UC-c3604840-20f0-4eee-876b-6ec9e5072fe1 | [link](https://www.udemy.com/certificate/UC-c3604840-20f0-4eee-876b-6ec9e5072fe1/)  | |
-| Tensorflow 2.0: Deep Learning and Artificial Intelligence    | UC-cf6fb3c5-ca2d-47d8-8750-7eb35e5e3da7 | [link](https://www.udemy.com/certificate/UC-cf6fb3c5-ca2d-47d8-8750-7eb35e5e3da7/)  | |
+| [Complete Tensorflow 2 and Keras Deep Learning Bootcamp](https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/) | UC-a1ea8fc9-79e9-45a1-aa84-9a9f49c097cb | [link](https://www.udemy.com/certificate/UC-a1ea8fc9-79e9-45a1-aa84-9a9f49c097cb/]) | |
+| [Unsupervised Machine Learning Hidden Markov Models in Python](https://www.udemy.com/course/unsupervised-machine-learning-hidden-markov-models-in-python/) | UC-7b148c4e-689e-433e-836d-f47726e6471f | [link](https://www.udemy.com/certificate/UC-7b148c4e-689e-433e-836d-f47726e6471f/)  | |
+| [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/) | UC-205e4ef4-017b-48f5-b44c-7bbcef31729d | [link](https://www.udemy.com/certificate/UC-205e4ef4-017b-48f5-b44c-7bbcef31729d/)  | |
+| [Taming Big Data with Apache Spark and Python - Hands On!](https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/) | UC-079486e0-5418-4601-ae24-ab5227efa734 | [link](https://www.udemy.com/certificate/UC-079486e0-5418-4601-ae24-ab5227efa734)   | |
+| [The Data Science Course 2020: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/) | UC-298e63b4-b71c-44b4-883f-57bd54abc46d | [link](https://www.udemy.com/certificate/UC-298e63b4-b71c-44b4-883f-57bd54abc46d)   | |
+| [Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models/) | UC-c3604840-20f0-4eee-876b-6ec9e5072fe1 | [link](https://www.udemy.com/certificate/UC-c3604840-20f0-4eee-876b-6ec9e5072fe1/) | |
+| [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/deep-learning-tensorflow-2/) | UC-cf6fb3c5-ca2d-47d8-8750-7eb35e5e3da7 | [link](https://www.udemy.com/certificate/UC-cf6fb3c5-ca2d-47d8-8750-7eb35e5e3da7/)  | |
 
 ### Databricks
 
