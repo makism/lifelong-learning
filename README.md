@@ -1,13 +1,23 @@
 
+## Current - Ongoing
 
-### Coursera
+| Name                                            | Issuing Organization       |
+|-------------------------------------------------|----------------------------|
+| [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) | Coursera & Google Cloud |
+| [Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) | Udacity |
+| [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/course/go-the-complete-developers-guide/) | Udemy |
+| [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy |
+| [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy |
+
+## Completed
+#### Coursera
 
 | Name                                            | Issuing Organization       | Credential |
 |-------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------|
 | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera & deeplearning.ai | [link](https://www.coursera.org/account/accomplishments/specialization/6EKWGQ9AK7X6) / [repo file](certificates/Coursera_Deep_Learning_Specialization.pdf) |
 | [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) | Coursera & IBM  | [link](https://www.coursera.org/account/accomplishments/professional-cert/DH6856XH9M56) / [repo file](Coursera_IBM_AI_Engineering_Professional_Certificate.pdf) |
 
-### Udemy
+#### Udemy
 
 | Name                                                                                                 | Credential |
 |------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -19,7 +29,7 @@
 | [Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models/) | [link](https://www.udemy.com/certificate/UC-c3604840-20f0-4eee-876b-6ec9e5072fe1/) / [repo file](certificates/Udemy_Deployment_of_Machine_Learning_Models.pdf) |
 | [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/deep-learning-tensorflow-2/) | [link](https://www.udemy.com/certificate/UC-cf6fb3c5-ca2d-47d8-8750-7eb35e5e3da7/) / [repo file](certificates/Udemy_Tensorflow_2_0_Deep_Learning_and_Artificial_Intelligence.pdf) |
 
-### Databricks
+#### Databricks
 
 | Name                                                   | Credential URL                                                                               | Repository File |
 |--------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
