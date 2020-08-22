@@ -9,15 +9,15 @@
 
 ### Udemy
 
-| Name                                                         | Credential URL                                                                                           | Repository File |
-|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------|
-| [Complete Tensorflow 2 and Keras Deep Learning Bootcamp](https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/) | [link](https://www.udemy.com/certificate/UC-a1ea8fc9-79e9-45a1-aa84-9a9f49c097cb/]) | |
-| [Unsupervised Machine Learning Hidden Markov Models in Python](https://www.udemy.com/course/unsupervised-machine-learning-hidden-markov-models-in-python/) | [link](https://www.udemy.com/certificate/UC-7b148c4e-689e-433e-836d-f47726e6471f/)  | |
-| [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/) | [link](https://www.udemy.com/certificate/UC-205e4ef4-017b-48f5-b44c-7bbcef31729d/)  | |
-| [Taming Big Data with Apache Spark and Python - Hands On!](https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/) | [link](https://www.udemy.com/certificate/UC-079486e0-5418-4601-ae24-ab5227efa734)   | |
-| [The Data Science Course 2020: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/) | [link](https://www.udemy.com/certificate/UC-298e63b4-b71c-44b4-883f-57bd54abc46d)   | |
-| [Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models/) | [link](https://www.udemy.com/certificate/UC-c3604840-20f0-4eee-876b-6ec9e5072fe1/) | |
-| [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/deep-learning-tensorflow-2/) | [link](https://www.udemy.com/certificate/UC-cf6fb3c5-ca2d-47d8-8750-7eb35e5e3da7/)  | |
+| Name                                                                                                 | Credential |
+|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| [Complete Tensorflow 2 and Keras Deep Learning Bootcamp](https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/) | [link](https://www.udemy.com/certificate/UC-a1ea8fc9-79e9-45a1-aa84-9a9f49c097cb/]) / [repo file](certificates/Udemy_Complete_Tensorflow_2_and_Keras_Deep_Learning_Bootcamp.pdf) |
+| [Unsupervised Machine Learning Hidden Markov Models in Python](https://www.udemy.com/course/unsupervised-machine-learning-hidden-markov-models-in-python/) | [link](https://www.udemy.com/certificate/UC-7b148c4e-689e-433e-836d-f47726e6471f/) / [repo file](certificates/Udemy_Unsupervised_Machine_Learning_Hidden_Markov_Models_in_Python.pdf) |
+| [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/) | [link](https://www.udemy.com/certificate/UC-205e4ef4-017b-48f5-b44c-7bbcef31729d/) / [repo file](certificates/Udemy_Spark_and_Python_for_Big_Data_with_PySpark.pdf) |
+| [Taming Big Data with Apache Spark and Python - Hands On!](https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/) | [link](https://www.udemy.com/certificate/UC-079486e0-5418-4601-ae24-ab5227efa734) / [repo file](certificates/Udemy_Taming_Big_Data_with_Apache_Spark_and_Python_Hands_On.pdf) |
+| [The Data Science Course 2020: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/) | [link](https://www.udemy.com/certificate/UC-298e63b4-b71c-44b4-883f-57bd54abc46d) / [repo file](certificates/Udemy_The_Data_Science_Course_2020_Complete_Data_Science_Bootcamp.pdf) |
+| [Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models/) | [link](https://www.udemy.com/certificate/UC-c3604840-20f0-4eee-876b-6ec9e5072fe1/) / [repo file](certificates/Udemy_Deployment_of_Machine_Learning_Models.pdf) |
+| [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/deep-learning-tensorflow-2/) | [link](https://www.udemy.com/certificate/UC-cf6fb3c5-ca2d-47d8-8750-7eb35e5e3da7/) / [repo file](certificates/Udemy_Tensorflow_2_0_Deep_Learning_and_Artificial_Intelligence.pdf) |
 
 ### Databricks
 
