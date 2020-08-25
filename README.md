@@ -5,7 +5,6 @@
 |-------------------------------------------------|----------------------------|
 | [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) | Coursera & Google Cloud |
 | [Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) | Udacity |
-| [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/course/go-the-complete-developers-guide/) | Udemy |
 | [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy |
 | [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy |
 | [Apache Beam - A Hands-On course to build Big data Pipelines](https://www.udemy.com/course/apache-beam-a-hands-on-course-to-build-big-data-pipelines/) | Udemy|
@@ -29,6 +28,7 @@
 | [The Data Science Course 2020: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/) | [link](https://www.udemy.com/certificate/UC-298e63b4-b71c-44b4-883f-57bd54abc46d) / [repo file](certificates/Udemy_The_Data_Science_Course_2020_Complete_Data_Science_Bootcamp.pdf) |
 | [Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models/) | [link](https://www.udemy.com/certificate/UC-c3604840-20f0-4eee-876b-6ec9e5072fe1/) / [repo file](certificates/Udemy_Deployment_of_Machine_Learning_Models.pdf) |
 | [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/deep-learning-tensorflow-2/) | [link](https://www.udemy.com/certificate/UC-cf6fb3c5-ca2d-47d8-8750-7eb35e5e3da7/) / [repo file](certificates/Udemy_Tensorflow_2_0_Deep_Learning_and_Artificial_Intelligence.pdf) |
+| [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/course/go-the-complete-developers-guide/) | [link](https://www.udemy.com/certificate/UC-6c3ff05a-b74b-4407-80cf-835c352cfe4c/) / [repo file](certificates/Udemy_Go_The_Complete_Developer_Guide_Golang.pdf) |
 
 #### Databricks
 
