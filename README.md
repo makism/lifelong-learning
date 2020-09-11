@@ -32,12 +32,12 @@
 
 #### Databricks
 
-| Name                                                   | Credential URL                                                                               | Repository File |
-|--------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Introduction of Unified Data Analytics with Databricks | [link](https://academy.databricks.com/award/completion/5e8540aa-1033-3ec3-b0dc-5ac7d6a2fa44) | |
-| Getting Started with Apache Spark SQL                  | [link](https://academy.databricks.com/award/completion/2d7bcb66-858b-38a5-a424-bf5cdc6cdc6d) | |
-| ETL Part 1: Data Extraction                            | [link](https://academy.databricks.com/award/completion/d357c2c7-441a-3d0e-b482-a863f4a30e3a) | |
-| ETL Part 2: Tranformations and Loads                   | [link](https://academy.databricks.com/award/completion/1e6ce142-bb0f-3668-8def-f990ecc60f1c) | |
-| ETL Part 3: Production                                 | [link](https://academy.databricks.com/award/completion/9722f58c-ea7b-34a7-a7b8-a87bbc1ba7f8) | |
-| MLFlow: Managing the Machine Learning Lifecycle        | [link](https://academy.databricks.com/award/completion/e34f2b49-8551-3b21-9366-a0fa31833511) | |
-| Structured Streaming                                   | [link](https://academy.databricks.com/award/completion/9ef09406-e8c3-34c3-8a72-6db365d6a2ba) | |
+| Name                                                   | Credential                 |
+|--------------------------------------------------------|----------------------------|
+| Introduction of Unified Data Analytics with Databricks | [link](https://academy.databricks.com/award/completion/5e8540aa-1033-3ec3-b0dc-5ac7d6a2fa44) / [repo file]() |
+| Getting Started with Apache Spark SQL                  | [link](https://academy.databricks.com/award/completion/2d7bcb66-858b-38a5-a424-bf5cdc6cdc6d) / [repo file]() |
+| ETL Part 1: Data Extraction                            | [link](https://academy.databricks.com/award/completion/d357c2c7-441a-3d0e-b482-a863f4a30e3a) / [repo file]() |
+| ETL Part 2: Tranformations and Loads                   | [link](https://academy.databricks.com/award/completion/1e6ce142-bb0f-3668-8def-f990ecc60f1c) / [repo file]() |
+| ETL Part 3: Production                                 | [link](https://academy.databricks.com/award/completion/9722f58c-ea7b-34a7-a7b8-a87bbc1ba7f8) / [repo file]() |
+| MLFlow: Managing the Machine Learning Lifecycle        | [link](https://academy.databricks.com/award/completion/e34f2b49-8551-3b21-9366-a0fa31833511) / [repo file]() |
+| Structured Streaming                                   | [link](https://academy.databricks.com/award/completion/9ef09406-e8c3-34c3-8a72-6db365d6a2ba) / [repo file]() |
