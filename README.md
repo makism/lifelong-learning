@@ -3,6 +3,7 @@
 
 | Name                                            | Issuing Organization       |
 |-------------------------------------------------|----------------------------|
+| [Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) | Coursera & Google Cloud |
 | [Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) | Udacity |
 | [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy |
 | [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy |
