@@ -7,6 +7,7 @@
 | [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy | |
 | [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy | |
 | [Apache Beam - A Hands-On course to build Big data Pipelines](https://www.udemy.com/course/apache-beam-a-hands-on-course-to-build-big-data-pipelines/) | Udemy| |
+| [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code//) | Udemy| |
 
 ## Completed
 #### Coursera
