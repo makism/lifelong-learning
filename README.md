@@ -3,7 +3,6 @@
 
 | Name                                            | Issuing Organization       | Projects Repo |
 |-------------------------------------------------|----------------------------|----------|
-| [Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) | Udacity | [udacity-dataengineer-nanodegree](https://github.com/makism/udacity-dataengineer-nanodegree) |
 | [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy | |
 | [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy | |
 | [Apache Beam - A Hands-On course to build Big data Pipelines](https://www.udemy.com/course/apache-beam-a-hands-on-course-to-build-big-data-pipelines/) | Udemy| |
@@ -18,6 +17,13 @@
 | [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) | Coursera & IBM  | [link](https://www.coursera.org/account/accomplishments/professional-cert/DH6856XH9M56) / [repo file](Coursera_IBM_AI_Engineering_Professional_Certificate.pdf) |
 | [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) | Coursera & Google Cloud | [link](https://www.coursera.org/account/accomplishments/specialization/G83TGP59ES7F) / [repo file](certificates/Coursera_Data_Engineering_Big_Data_and_Machine_Learning_on_GCP.pdf) |
 | [Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) | Coursera & Google Cloud | [link](https://www.coursera.org/account/accomplishments/specialization/ELKTEEGHQQHJ) / [repo file](certificates/Coursera_Machine_Learning_with_TensorFlow_on_Google_Cloud_Platform.pdf) |
+
+#### Udacity
+
+| Name                                            | Issuing Organization       | Credential | Projects Repo |
+|-------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------|
+| [Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) | Udacity | [link](https://confirm.udacity.com/TSRXCYNL) / [repo file](certificates/Udacity_Data_Engineering_Nanodegree.pdf
+) | [udacity-dataengineer-nanodegree](https://github.com/makism/udacity-dataengineer-nanodegree) |
 
 #### Udemy
 
