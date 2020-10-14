@@ -21,9 +21,8 @@
 #### Udacity
 
 | Name                                            | Issuing Organization       | Credential | Projects Repo |
-|-------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------|
-| [Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) | Udacity | [link](https://confirm.udacity.com/TSRXCYNL) / [repo file](certificates/Udacity_Data_Engineering_Nanodegree.pdf
-) | [udacity-dataengineer-nanodegree](https://github.com/makism/udacity-dataengineer-nanodegree) |
+|-------------------------------------------------|----------------------------|------------|---------------|
+| [Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) | Udacity | [link](https://confirm.udacity.com/TSRXCYNL) / [repo file](certificates/Udacity_Data_Engineering_Nanodegree.pdf) | [udacity-dataengineer-nanodegree](https://github.com/makism/udacity-dataengineer-nanodegree) |
 
 #### Udemy
 
