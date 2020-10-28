@@ -37,6 +37,8 @@
 | [Deployment of Machine Learning Models](https://www.udemy.com/course/deployment-of-machine-learning-models/) | [link](https://www.udemy.com/certificate/UC-c3604840-20f0-4eee-876b-6ec9e5072fe1/) / [repo file](certificates/Udemy_Deployment_of_Machine_Learning_Models.pdf) |
 | [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/deep-learning-tensorflow-2/) | [link](https://www.udemy.com/certificate/UC-cf6fb3c5-ca2d-47d8-8750-7eb35e5e3da7/) / [repo file](certificates/Udemy_Tensorflow_2_0_Deep_Learning_and_Artificial_Intelligence.pdf) |
 | [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/course/go-the-complete-developers-guide/) | [link](https://www.udemy.com/certificate/UC-6c3ff05a-b74b-4407-80cf-835c352cfe4c/) / [repo file](certificates/Udemy_Go_The_Complete_Developer_Guide_Golang.pdf) |
+| [Acing the Machine Learning Engineering Interview](https://www.udemy.com/course/acing-the-machine-learning-engineering-interview/) | [link](https://www.udemy.com/certificate/UC-e67f2b68-df19-4c50-8ffb-a600356c6a1b/) / [repo file](certificates/Udemy_Acing_The_Machine_Learning_Engineering_Interview_.pdf) |
+
 
 #### Databricks
 
