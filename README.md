@@ -3,7 +3,6 @@
 
 | Name                                            | Issuing Organization       | Projects Repo |
 |-------------------------------------------------|----------------------------|----------|
-| [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | Coursera & deeplearnig.ai | |
 | [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy | |
 | [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy | |
 | [Apache Beam - A Hands-On course to build Big data Pipelines](https://www.udemy.com/course/apache-beam-a-hands-on-course-to-build-big-data-pipelines/) | Udemy| |
@@ -15,6 +14,7 @@
 | Name                                            | Issuing Organization       | Credential |
 |-------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------|
 | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera & deeplearning.ai | [link](https://www.coursera.org/account/accomplishments/specialization/6EKWGQ9AK7X6) / [repo file](certificates/Coursera_Deep_Learning_Specialization.pdf) |
+| [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | Coursera & deeplearning.ai | [link](https://www.coursera.org/account/accomplishments/professional-cert/DML29D6PNP6J) / [repo file](certificates/Coursera_DeepLearning_AI_TensorFlow_Developer.pdf) |
 | [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) | Coursera & IBM  | [link](https://www.coursera.org/account/accomplishments/professional-cert/DH6856XH9M56) / [repo file](Coursera_IBM_AI_Engineering_Professional_Certificate.pdf) |
 | [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) | Coursera & Google Cloud | [link](https://www.coursera.org/account/accomplishments/specialization/G83TGP59ES7F) / [repo file](certificates/Coursera_Data_Engineering_Big_Data_and_Machine_Learning_on_GCP.pdf) |
 | [Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) | Coursera & Google Cloud | [link](https://www.coursera.org/account/accomplishments/specialization/ELKTEEGHQQHJ) / [repo file](certificates/Coursera_Machine_Learning_with_TensorFlow_on_Google_Cloud_Platform.pdf) |
