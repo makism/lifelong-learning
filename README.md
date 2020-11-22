@@ -38,6 +38,7 @@
 | [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/deep-learning-tensorflow-2/) | [link](https://www.udemy.com/certificate/UC-cf6fb3c5-ca2d-47d8-8750-7eb35e5e3da7/) / [repo file](certificates/Udemy_Tensorflow_2_0_Deep_Learning_and_Artificial_Intelligence.pdf) |
 | [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/course/go-the-complete-developers-guide/) | [link](https://www.udemy.com/certificate/UC-6c3ff05a-b74b-4407-80cf-835c352cfe4c/) / [repo file](certificates/Udemy_Go_The_Complete_Developer_Guide_Golang.pdf) |
 | [Acing the Machine Learning Engineering Interview](https://www.udemy.com/course/acing-the-machine-learning-engineering-interview/) | [link](https://www.udemy.com/certificate/UC-e67f2b68-df19-4c50-8ffb-a600356c6a1b/) / [repo file](certificates/Udemy_Acing_The_Machine_Learning_Engineering_Interview.pdf) |
+| [Microservices Architecture - The Complete Guide](https://www.udemy.com/course/microservices-architecture-the-complete-guide/) | [link](https://www.udemy.com/certificate/UC-45767765-dcb5-46a5-b46e-e60ddd45ed94/) / [repo file](certificates/Udemy_Microservices_Architecture_The_Complete_Guide.pdf) |
 
 
 #### Databricks
