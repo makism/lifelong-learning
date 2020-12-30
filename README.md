@@ -39,7 +39,7 @@
 | [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/course/go-the-complete-developers-guide/) | [link](https://www.udemy.com/certificate/UC-6c3ff05a-b74b-4407-80cf-835c352cfe4c/) / [repo file](certificates/Udemy_Go_The_Complete_Developer_Guide_Golang.pdf) |
 | [Acing the Machine Learning Engineering Interview](https://www.udemy.com/course/acing-the-machine-learning-engineering-interview/) | [link](https://www.udemy.com/certificate/UC-e67f2b68-df19-4c50-8ffb-a600356c6a1b/) / [repo file](certificates/Udemy_Acing_The_Machine_Learning_Engineering_Interview.pdf) |
 | [Microservices Architecture - The Complete Guide](https://www.udemy.com/course/microservices-architecture-the-complete-guide/) | [link](https://www.udemy.com/certificate/UC-45767765-dcb5-46a5-b46e-e60ddd45ed94/) / [repo file](certificates/Udemy_Microservices_Architecture_The_Complete_Guide.pdf) |
-| [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/) | Udemy | [link](https://www.udemy.com/certificate/UC-828cb633-9e45-42fd-bc99-9b1a0301d939/) / [repo file](Udemy_Learn_How_To_Code_Googles_Go_golang_Programming_Language) |
+| [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/) |[link](https://www.udemy.com/certificate/UC-828cb633-9e45-42fd-bc99-9b1a0301d939/) / [repo file](Udemy_Learn_How_To_Code_Googles_Go_golang_Programming_Language) |
 
 
 #### Databricks
