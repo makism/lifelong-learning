@@ -3,6 +3,7 @@
 
 | Name                                            | Issuing Organization       | Projects Repo |
 |-------------------------------------------------|----------------------------|----------|
+| [Data Science with Databricks for Data Analysts Specialization](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts) | Coursera & databricks | |
 | [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy | |
 | [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy | |
 | [Apache Beam - A Hands-On course to build Big data Pipelines](https://www.udemy.com/course/apache-beam-a-hands-on-course-to-build-big-data-pipelines/) | Udemy | |
