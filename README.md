@@ -18,6 +18,7 @@
 | [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) | Coursera & IBM  | [link](https://www.coursera.org/account/accomplishments/professional-cert/DH6856XH9M56) / [repo file](Coursera_IBM_AI_Engineering_Professional_Certificate.pdf) |
 | [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) | Coursera & Google Cloud | [link](https://www.coursera.org/account/accomplishments/specialization/G83TGP59ES7F) / [repo file](certificates/Coursera_Data_Engineering_Big_Data_and_Machine_Learning_on_GCP.pdf) |
 | [Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) | Coursera & Google Cloud | [link](https://www.coursera.org/account/accomplishments/specialization/ELKTEEGHQQHJ) / [repo file](certificates/Coursera_Machine_Learning_with_TensorFlow_on_Google_Cloud_Platform.pdf) |
+| [Apache Spark (TM) SQL for Data Analysts](https://www.coursera.org/learn/apache-spark-sql-for-data-analysts) | Coursera & databricks | [link](https://www.coursera.org/account/accomplishments/verify/6U9ERC92535A) / [repo fle](certificates/Coursera_Apache_Spark_SQL_for_Data_Analysts.pdf) |
 
 #### Udacity
 
