@@ -45,10 +45,11 @@
 
 #### Neo4j
 
-| Name                              | Credential                                   |
-| --------------------------------- | -------------------------------------------- |
-| Overview of Neo4j 4.x             | [repo file](certificates/neo4j_Overview_of_Neo4j_4_x.pdf) |
-| Querying with Cypher in Neo4j 4.x | [repo file](certificates/neo4j_Overview_of_Neo4j_4_x.pdf) |
+| Name                                          | Credential                                                |
+| --------------------------------------------- | --------------------------------------------------------- |
+| Overview of Neo4j 4.x                         | [repo file](certificates/neo4j_Overview_of_Neo4j_4_x.pdf) |
+| Querying with Cypher in Neo4j 4.x             | [repo file](certificates/neo4j_Overview_of_Neo4j_4_x.pdf) |
+| Creating Nodes and Relationships in Neo4j 4.x | [repo file](certificates/neo4j_Creating_Nodes_and_Relationshipts_in_neo4j_4x.pdf) |
 
 
 #### Databricks
