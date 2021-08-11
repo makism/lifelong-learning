@@ -3,12 +3,23 @@
 
 | Name                                            | Issuing Organization       | Projects Repo |
 |-------------------------------------------------|----------------------------|----------|
-| [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy | |
-| [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy | |
-| [Apache Beam - A Hands-On course to build Big data Pipelines](https://www.udemy.com/course/apache-beam-a-hands-on-course-to-build-big-data-pipelines/) | Udemy | |
-| [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course//) | Udemy | |
+| [Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science) | deeplearning.ai & AWS | *None* |
+
+
+
+## Suspended
+
+| Name                                                         | Issuing Organization | Reason                                                   |
+| ------------------------------------------------------------ | -------------------- | -------------------------------------------------------- |
+| [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy                | Mostly done, but I go from time to time for a refresher. |
+| [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy                | Mostly done, but I go from time to time for a refresher. |
+| [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course//) | Udemy                | Not looking to get back to Java anytime soon.            |
+| [Apache Beam - A Hands-On course to build Big data Pipelines](https://www.udemy.com/course/apache-beam-a-hands-on-course-to-build-big-data-pipelines/) | Udemy                | Don't have the extra time to put into this course.       |
+
+
 
 ## Completed
+
 #### Coursera
 
 | Name                                            | Issuing Organization       | Credential |
