@@ -55,6 +55,13 @@
 | [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/) |[link](https://www.udemy.com/certificate/UC-828cb633-9e45-42fd-bc99-9b1a0301d939/) / [repo file](certificates/Udemy_Learn_How_To_Code_Googles_Go_golang_Programming_Language.pdf) |
 
 
+#### datacamp
+
+| Name                                  | Credential                                                   |
+| ------------------------------------- | ------------------------------------------------------------ |
+| Supervised Learning with scikit-learn | [link](https://www.datacamp.com/statement-of-accomplishment/course/2a200a16bc69e5233aed41f6f4ab80fea6988f6f) / [repo file](certificates/datacamp_Supervised_Learning_with_scikit-learn.pdf) |
+
+
 #### Neo4j
 
 | Name                                          | Credential                                                |
