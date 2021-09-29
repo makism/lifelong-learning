@@ -3,18 +3,18 @@
 
 | Name                                            | Issuing Organization       | Projects Repo |
 |-------------------------------------------------|----------------------------|----------|
-|      |  |  |
+| [Machine Learning Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Datacamp |  |
 
 
 
 ## Suspended
 
-| Name                                                         | Issuing Organization | Reason                                                   |
-| ------------------------------------------------------------ | -------------------- | -------------------------------------------------------- |
-| [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy                | Mostly done, but I go from time to time for a refresher. |
-| [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy                | Mostly done, but I go from time to time for a refresher. |
-| [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course//) | Udemy                | Not looking to get back to Java anytime soon.            |
-| [Apache Beam - A Hands-On course to build Big data Pipelines](https://www.udemy.com/course/apache-beam-a-hands-on-course-to-build-big-data-pipelines/) | Udemy                | Don't have the extra time to put into this course.       |
+| Name                                                         | Issuing Organization | Reason                                             |
+| ------------------------------------------------------------ | -------------------- | -------------------------------------------------- |
+| [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy                | Used only as a refresher.                          |
+| [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy                | Used only as a refresher.                          |
+| [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course//) | Udemy                | Used only as a refresher.                          |
+| [Apache Beam - A Hands-On course to build Big data Pipelines](https://www.udemy.com/course/apache-beam-a-hands-on-course-to-build-big-data-pipelines/) | Udemy                | Don't have the extra time to put into this course. |
 
 
 
