@@ -60,6 +60,7 @@
 | Name                                  | Credential                                                   |
 | ------------------------------------- | ------------------------------------------------------------ |
 | Supervised Learning with scikit-learn | [link](https://www.datacamp.com/statement-of-accomplishment/course/2a200a16bc69e5233aed41f6f4ab80fea6988f6f) / [repo file](certificates/datacamp_Supervised_Learning_with_scikit-learn.pdf) |
+| Unsupervised Learning in Python       | [link](https://www.datacamp.com/statement-of-accomplishment/course/3ecbf89dba12d780727956d20d1e38b5408d6b6c) / [repo file](certificates/datacamp_Unsupervised_Learning_in_Python.pdf) |
 
 
 #### Neo4j
