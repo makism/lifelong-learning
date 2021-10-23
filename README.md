@@ -4,6 +4,7 @@
 | Name                                            | Issuing Organization       | Projects Repo |
 |-------------------------------------------------|----------------------------|----------|
 | [Machine Learning Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Datacamp |  |
+| [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) | Udacity | [link](https://github.com/makism/udacity-mle-nanodegree)  |
 
 
 
