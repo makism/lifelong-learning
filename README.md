@@ -4,7 +4,6 @@
 | Name                                            | Issuing Organization       | Projects Repo |
 |-------------------------------------------------|----------------------------|----------|
 | [Machine Learning Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Datacamp |  |
-| [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) | Udacity | [link](https://github.com/makism/udacity-mle-nanodegree)  |
 
 
 
@@ -16,6 +15,7 @@
 | [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy                | Used only as a refresher.                          |
 | [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course//) | Udemy                | Used only as a refresher.                          |
 | [Apache Beam - A Hands-On course to build Big data Pipelines](https://www.udemy.com/course/apache-beam-a-hands-on-course-to-build-big-data-pipelines/) | Udemy                | Don't have the extra time to put into this course. |
+| [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) | Udacity              | Too expensive.                                     |
 
 
 
@@ -58,11 +58,12 @@
 
 #### datacamp
 
-| Name                                  | Credential                                                   |
-| ------------------------------------- | ------------------------------------------------------------ |
-| Supervised Learning with scikit-learn | [link](https://www.datacamp.com/statement-of-accomplishment/course/2a200a16bc69e5233aed41f6f4ab80fea6988f6f) / [repo file](certificates/datacamp_Supervised_Learning_with_scikit-learn.pdf) |
-| Unsupervised Learning in Python       | [link](https://www.datacamp.com/statement-of-accomplishment/course/3ecbf89dba12d780727956d20d1e38b5408d6b6c) / [repo file](certificates/datacamp_Unsupervised_Learning_in_Python.pdf) |
-| Linear Classifiers in Python          | [link](https://www.datacamp.com/statement-of-accomplishment/course/e37415ab8ed83237a35f151a7e793e90a64059b6) / [repo file](certificates/datacamp_Linear_Classifiers_in_Python.pdf)                                             |
+| Name                                              | Credential                                                   |
+| ------------------------------------------------- | ------------------------------------------------------------ |
+| Supervised Learning with scikit-learn             | [link](https://www.datacamp.com/statement-of-accomplishment/course/2a200a16bc69e5233aed41f6f4ab80fea6988f6f) / [repo file](certificates/datacamp_Supervised_Learning_with_scikit-learn.pdf) |
+| Unsupervised Learning in Python                   | [link](https://www.datacamp.com/statement-of-accomplishment/course/3ecbf89dba12d780727956d20d1e38b5408d6b6c) / [repo file](certificates/datacamp_Unsupervised_Learning_in_Python.pdf) |
+| Linear Classifiers in Python                      | [link](https://www.datacamp.com/statement-of-accomplishment/course/e37415ab8ed83237a35f151a7e793e90a64059b6) / [repo file](certificates/datacamp_Linear_Classifiers_in_Python.pdf) |
+| Machine Learning with Tree-Based Models in Python | [link](https://www.datacamp.com/statement-of-accomplishment/course/6d6bbf2ee166b87ef45eed6f1db44e0d2d5d330b) / [repo file](certificates/datacamp_Machine_Learning_with_Tree_Based_Models.pdf) |
 
 
 #### Neo4j
