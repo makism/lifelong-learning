@@ -64,6 +64,7 @@
 | Unsupervised Learning in Python                   | [link](https://www.datacamp.com/statement-of-accomplishment/course/3ecbf89dba12d780727956d20d1e38b5408d6b6c) / [repo file](certificates/datacamp_Unsupervised_Learning_in_Python.pdf) |
 | Linear Classifiers in Python                      | [link](https://www.datacamp.com/statement-of-accomplishment/course/e37415ab8ed83237a35f151a7e793e90a64059b6) / [repo file](certificates/datacamp_Linear_Classifiers_in_Python.pdf) |
 | Machine Learning with Tree-Based Models in Python | [link](https://www.datacamp.com/statement-of-accomplishment/course/6d6bbf2ee166b87ef45eed6f1db44e0d2d5d330b) / [repo file](certificates/datacamp_Machine_Learning_with_Tree_Based_Models.pdf) |
+| Extreme Gradient Boosting with XGBoost            | [link](https://www.datacamp.com/statement-of-accomplishment/course/f36f9b8bd236e22221b662a843349a885cc55efa) / [repo file](certificates/datacamp_Extreme_Gradient_Boosting_with_XGBoost.pdf) |
 
 
 #### Neo4j
