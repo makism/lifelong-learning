@@ -67,6 +67,7 @@
 | Machine Learning with Tree-Based Models in Python | [link](https://www.datacamp.com/statement-of-accomplishment/course/6d6bbf2ee166b87ef45eed6f1db44e0d2d5d330b) / [repo file](certificates/datacamp_Machine_Learning_with_Tree_Based_Models.pdf) |
 | Extreme Gradient Boosting with XGBoost            | [link](https://www.datacamp.com/statement-of-accomplishment/course/f36f9b8bd236e22221b662a843349a885cc55efa) / [repo file](certificates/datacamp_Extreme_Gradient_Boosting_with_XGBoost.pdf) |
 | Cluster Analysis in Python                        | [link](https://www.datacamp.com/statement-of-accomplishment/course/86a040f5168a24eb38f78cd80f044e1db1feabb7) / [repo file](certificates/datacamp_Cluster_Analysis_in_Python.pdf) |
+| Dimensionality Reduction in Python                        | [link](https://www.datacamp.com/statement-of-accomplishment/course/9882a1646fae197c28b2daf781d397450238b6bd) / [repo file](datacamp_Dimensionality_Redution_in_Python.pdf) |
 
 
 #### Neo4j
