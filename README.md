@@ -54,6 +54,7 @@
 | [Acing the Machine Learning Engineering Interview](https://www.udemy.com/course/acing-the-machine-learning-engineering-interview/) | [link](https://www.udemy.com/certificate/UC-e67f2b68-df19-4c50-8ffb-a600356c6a1b/) / [repo file](certificates/Udemy_Acing_The_Machine_Learning_Engineering_Interview.pdf) |
 | [Microservices Architecture - The Complete Guide](https://www.udemy.com/course/microservices-architecture-the-complete-guide/) | [link](https://www.udemy.com/certificate/UC-45767765-dcb5-46a5-b46e-e60ddd45ed94/) / [repo file](certificates/Udemy_Microservices_Architecture_The_Complete_Guide.pdf) |
 | [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/) |[link](https://www.udemy.com/certificate/UC-828cb633-9e45-42fd-bc99-9b1a0301d939/) / [repo file](certificates/Udemy_Learn_How_To_Code_Googles_Go_golang_Programming_Language.pdf) |
+| [Graph Neural Network - From Graph Representation Learning to Graph Neural Network (Complete Introductory Course to GNN)](https://www.udemy.com/course/graph-neural-network/) | [link](https://www.udemy.com/certificate/UC-5bfddbf3-0f94-4577-bc36-0a20b6bae056/) / [repo file](certificates/udemy_Graph_Neural_Networks.pdf) |
 
 
 #### datacamp
