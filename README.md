@@ -1,16 +1,13 @@
 
 ## Current - Ongoing
 
-| Name                                            | Issuing Organization       | Projects Repo |
-|-------------------------------------------------|----------------------------|----------|
-| [Machine Learning Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Datacamp |  |
-
 
 
 ## Suspended
 
 | Name                                                         | Issuing Organization | Reason                                             |
 | ------------------------------------------------------------ | -------------------- | -------------------------------------------------- |
+| [Machine Learning Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Datacamp | 
 | [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy                | Used only as a refresher.                          |
 | [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy                | Used only as a refresher.                          |
 | [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course//) | Udemy                | Used only as a refresher.                          |
