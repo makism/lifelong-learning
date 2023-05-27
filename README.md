@@ -1,22 +1,17 @@
 
 ## Current - Ongoing
 
-
-
-## Suspended
-
-| Name                                                         | Issuing Organization | Reason                                             |
-| ------------------------------------------------------------ | -------------------- | -------------------------------------------------- |
-| [Machine Learning Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Datacamp | 
-| [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy                | Used only as a refresher.                          |
-| [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy                | Used only as a refresher.                          |
-| [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course//) | Udemy                | Used only as a refresher.                          |
-| [Apache Beam - A Hands-On course to build Big data Pipelines](https://www.udemy.com/course/apache-beam-a-hands-on-course-to-build-big-data-pipelines/) | Udemy                | Don't have the extra time to put into this course. |
-| [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) | Udacity              | Too expensive.                                     |
-
-
+None
 
 ## Completed
+
+
+#### Microsoft Azure on Coursera
+
+| Name                                            | Credential                 |
+|-------------------------------------------------|----------------------------|
+| Microsoft Azure Databricks for Data Engineering | [link](link) / [repo file](file) |
+
 
 #### Coursera
 
@@ -87,3 +82,16 @@
 | ETL Part 3: Production                                 | [link](https://academy.databricks.com/award/completion/9722f58c-ea7b-34a7-a7b8-a87bbc1ba7f8) / [repo file]() |
 | MLFlow: Managing the Machine Learning Lifecycle        | [link](https://academy.databricks.com/award/completion/e34f2b49-8551-3b21-9366-a0fa31833511) / [repo file]() |
 | Structured Streaming                                   | [link](https://academy.databricks.com/award/completion/9ef09406-e8c3-34c3-8a72-6db365d6a2ba) / [repo file]() |
+
+
+## Suspended
+
+| Name                                                         | Issuing Organization | Reason                                             |
+| ------------------------------------------------------------ | -------------------- | -------------------------------------------------- |
+| [Machine Learning Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Datacamp | 
+| [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/) | Udemy                | Used only as a refresher.                          |
+| [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) | Udemy                | Used only as a refresher.                          |
+| [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course//) | Udemy                | Used only as a refresher.                          |
+| [Apache Beam - A Hands-On course to build Big data Pipelines](https://www.udemy.com/course/apache-beam-a-hands-on-course-to-build-big-data-pipelines/) | Udemy                | Don't have the extra time to put into this course. |
+| [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) | Udacity              | Too expensive.                                     |
+
