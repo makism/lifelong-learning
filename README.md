@@ -11,6 +11,7 @@ None
 | Name                                            | Credential                 |
 |-------------------------------------------------|----------------------------|
 | Microsoft Azure for Data Engineering | [link](https://www.coursera.org/account/accomplishments/verify/JMFT7MR2WS8R) / [repo file](certificates/Coursera_Microsoft_Azure_for_Data_Engineering.pdf) |
+| Data Storage in Microsoft Azure | [link](https://www.coursera.org/account/accomplishments/verify/KT4E8SVGMCZ3) / [repo file](certificates/Coursera_Data_Storage_in_Microsoft_Azure.pdf) |
 | Microsoft Azure Databricks for Data Engineering | [link](https://www.coursera.org/account/accomplishments/verify/W7CER4QP5NXG) / [repo file](certificates/Coursera_Microsoft_Azure_Databricks_for_Data_Engineering.pdf) |
 
 
