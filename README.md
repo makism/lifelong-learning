@@ -6,13 +6,21 @@ None
 ## Completed
 
 
-#### Microsoft Azure on Coursera
+#### Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate
 
-| Name                                            | Credential                 |
-|-------------------------------------------------|----------------------------|
-| Microsoft Azure for Data Engineering | [link](https://www.coursera.org/account/accomplishments/verify/JMFT7MR2WS8R) / [repo file](certificates/Coursera_Microsoft_Azure_for_Data_Engineering.pdf) |
-| Data Storage in Microsoft Azure | [link](https://www.coursera.org/account/accomplishments/verify/KT4E8SVGMCZ3) / [repo file](certificates/Coursera_Data_Storage_in_Microsoft_Azure.pdf) |
-| Microsoft Azure Databricks for Data Engineering | [link](https://www.coursera.org/account/accomplishments/verify/W7CER4QP5NXG) / [repo file](certificates/Coursera_Microsoft_Azure_Databricks_for_Data_Engineering.pdf) |
+|      | Name                                                      | Credential                                                   |
+| ---- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| 1    | Microsoft Azure for Data Engineering                      | [link](https://www.coursera.org/account/accomplishments/verify/JMFT7MR2WS8R) / [repo file](certificates/Coursera_Microsoft_Azure_for_Data_Engineering.pdf) |
+| 2    | Data Storage in Microsoft Azure                           | [link](https://www.coursera.org/account/accomplishments/verify/KT4E8SVGMCZ3) / [repo file](certificates/Coursera_Data_Storage_in_Microsoft_Azure.pdf) |
+| 3    | Data Integration with Microsoft Azure Data Factory        | [link](https://www.coursera.org/account/accomplishments/verify/P8TTGF4GHM7V) / [repo file](certificates/Coursera_Data_Integration_with_Microsoft_Azure_Data_Factory.pdf) |
+| 4    | Introduction to Microsoft Azure Synapse Analytics         | [link](https://www.coursera.org/account/accomplishments/verify/L4G4W5DAWZFC) / [repo file](certificates/Coursera_Introduction_to_Microsoft_Azure_Synapse_Analytics.pdf) |
+| 5    | Data Warehousing with Microsoft Azure Synapse Analytics   | [link](https://www.coursera.org/account/accomplishments/verify/RZLYUYXNBYGU) / [repo file](certificates/Coursera_Data_Warehousing_with_Microsoft_Azure_Synapse_Analytics.pdf) |
+| 6    | Data Engineering with MS Azure Synapse Apache Spark Pools | link / repo file                                             |
+| 7    |                                                           |                                                              |
+| 8    | Microsoft Azure Databricks for Data Engineering           | [link](https://www.coursera.org/account/accomplishments/verify/W7CER4QP5NXG) / [repo file](certificates/Coursera_Microsoft_Azure_Databricks_for_Data_Engineering.pdf) |
+| 9    |                                                           |                                                              |
+| 10   |                                                           |                                                              |
+
 
 
 #### Coursera
